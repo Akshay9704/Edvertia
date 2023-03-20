@@ -1,0 +1,41 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+span{
+    color: #16a34a;
+}
+
+.nav-list li,a{
+    list-style: none;
+    color: white;
+    padding-left: 12px;
+    
+}
+
+.nav-list li a:hover{
+    list-style: none;
+    color: yellow;
+    padding-left: 12px;
+}
+
+.footer-left ul, li,a{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    padding-left: 12px;
+    font-weight: 500;
+}
+.footer-left li a:hover{
+    list-style: none;
+    color: red;
+    padding-left: 12px;
+    font-weight: 500;
+}
+
+.search input{
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #fafafa;
+    color: #fafafa;
+}
